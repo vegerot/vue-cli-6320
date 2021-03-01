@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json.schemastore.org/tsconfig",
+  "extends": "./tsconfig.base.json",
+  "exclude": [
+    "node_modules",
+    "./src/**/__mocks__",
+    "./src/**/__mocks__/**/*",
+    "__mocks__",
+    "tests"
+  ]
+}
