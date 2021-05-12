@@ -124,7 +124,7 @@
 import type { Thing } from '@/main';
 import { Component, Prop, Vue } from 'vue-property-decorator';
 
-import type {ActionMethod } from 'vuex';
+import { ActionMethod } from 'vuex';
 
 import {namespace} from 'vuex-class';
 
