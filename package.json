@@ -33,7 +33,7 @@
     "lint:style": "stylelint 'src/**/*.vue' --fix"
   },
   "dependencies": {
-    "axios": "0.21.1",
+    "axios": "1.6.0",
     "js-cookie-vue": "1.0.8",
     "register-service-worker": "1.7.2",
     "vue": "2.6.12",
